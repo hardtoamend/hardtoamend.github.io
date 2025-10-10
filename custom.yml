@@ -48,6 +48,7 @@ marked:
   postAsset: true
 relative_link: false
 future: true
+# syntax_highlighter: highlight.js
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
