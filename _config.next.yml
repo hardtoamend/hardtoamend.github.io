@@ -910,12 +910,12 @@ css: css
 js: js
 images: images
 
-sitemap:
-  path: 
-    - sitemap.xml
-    - sitemap.txt
-  template: ./sitemap_template.xml
-  template_txt: ./sitemap_template.txt
-  rel: false
-  tags: true
-  categories: true
+# sitemap:
+#   path: 
+#     - sitemap.xml
+#     - sitemap.txt
+#   template: ./sitemap_template.xml
+#   template_txt: ./sitemap_template.txt
+#   rel: false
+#   tags: true
+#   categories: true

@@ -216,7 +216,7 @@ symbols_count_time:
   item_text_total: true
 ```
 
-
+[https://hexo-next.readthedocs.io/zh-cn/latest/next/advanced/%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1/](https://hexo-next.readthedocs.io/zh-cn/latest/next/advanced/%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1/)
 
 ## 12.1 页面阅读统计 不蒜子统计
 
@@ -230,8 +230,6 @@ busuanzi_count:
   post_views: true         		   # 开启内容阅读次数
   post_views_icon: far fa-eye      # 内容页阅读数的图标
 ```
-
-
 
 # 13.文章原创声明
 
