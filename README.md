@@ -10,4 +10,7 @@ hexo clean
 
 # hexo server
 hexo server --config custom.yml,_config.next.yml
+
+# Action
+npm run build -- --config custom.yml _config.next.yml
 ```
